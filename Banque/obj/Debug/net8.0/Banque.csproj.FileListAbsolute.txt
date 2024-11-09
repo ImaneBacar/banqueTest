@@ -1,0 +1,14 @@
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/bin/Debug/net8.0/Banque
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/bin/Debug/net8.0/Banque.deps.json
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/bin/Debug/net8.0/Banque.runtimeconfig.json
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/bin/Debug/net8.0/Banque.dll
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/bin/Debug/net8.0/Banque.pdb
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.AssemblyInfoInputs.cache
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.AssemblyInfo.cs
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.csproj.CoreCompileInputs.cache
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.dll
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/refint/Banque.dll
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.pdb
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/Banque.genruntimeconfig.cache
+/Users/imanebacar/Desktop/c#/ExerciceC#/Banque/obj/Debug/net8.0/ref/Banque.dll
